@@ -1,7 +1,0 @@
-####### Pet Pugin Config ########
-enable-pet-shop-spawner: true
-pet-shop-spawner-world: world
-pet-shop-spawner-cords: x,y,z
-pet-limit: false
-# of how many pets can be owned by player
-pets-limit: 2

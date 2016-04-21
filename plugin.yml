@@ -1,8 +1,0 @@
-name: Pets
-author: PMMPDevs
-main: PMMPDevs\Pets\
-version: "1.0.0"
-api:
-- 1.0.0
-- 2.0.0
-description: Pets Plugin For PocketMine
